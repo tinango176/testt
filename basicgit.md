@@ -1,4 +1,4 @@
-# Để push một dự án Django lên GitHub, bạn thực hiện theo các bước sau:
+# Để push một dự án lên GitHub, bạn thực hiện theo các bước sau:
 - Bước 0: Tạo repo mới trên GitHub
 
 Vào GitHub, tạo một repository mới (bỏ chọn Initialize this repository with a README).
