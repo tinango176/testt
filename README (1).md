@@ -8,7 +8,7 @@ LMS
 - Clone the repo with
 
 ```bash
-https://github.com/
+git clone https://github.com/tinango176/testt
 ```
 
 ## Tạo môi trường ảo (virtual environment)
@@ -29,18 +29,4 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-- Create a .env file inside the root directory
-- Copy and paste everything in the .env.example file into the .env file. Then, edit the variable values
-```bash
-python manage.py migrate
-```
 
-```bash
-python manage.py createsuperuser
-```
-
-```bash
-python manage.py runserver
-```
-
-Finally, open the browser http://127.0.0.1:8000
